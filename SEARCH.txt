@@ -1,0 +1,21 @@
+site:amazon.com
+"david benjamin" filetype:pdf OR filetype:xlsx OR filetype:docx
+
+
+https://osintframework.com/
+https://inteltechniques.com/
+
+
+pimeyes.com
+epieos.com
+social-searcher.com
+checkusernames.com
+thatsthem.com
+inteltechniques
+tineye
+pictries
+wayback machine
+havelbeenpwned
+maltego
+shodan
+zoomeye
