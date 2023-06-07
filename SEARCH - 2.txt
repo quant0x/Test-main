@@ -1,4 +1,4 @@
-Değiştirildi.
+Değiştir
 
 site:amazon.com
 "david benjamin" filetype:pdf OR filetype:xlsx OR filetype:docx
